@@ -1,29 +1,16 @@
-Zwrotka1.txt
+zwrotka1.txt
 
-Zwrotka2.txt 
+zwrotka2.txt 
 
-Ref.: Przeżyj to sam, 
-Przeżyj to sam. 
-Nie zamieniaj serca w twardy głaz, 
-Póki jeszcze serce masz. 
+refren1.txt
 
-Widziałeś wczoraj znów za oknem, 
-Spóźnionych ludzi milczący tłum. 
-Zmęczone twarze i samotne, 
-Wyrwane nagle z objęć snu. 
+zwrotka3.txt
 
-Lecz nie umiałeś wybiec do nich, 
-Wybrałeś znowu spokojny kąt. 
-Nie chciałeś życiem skalać dłoni, 
-Choć było blisko, zbyt blisko stąd. 
+zwrotka4.txt
 
-Ref.: (x3) 
-Przeżyj to sam, 
-Przeżyj to sam. 
-Nie zamieniaj serca w twardy głaz, 
-Póki jeszcze serce masz. 
+refren2.txt
 
-Póki serce masz!
+koniec.txt
 
 (c) 1984 wyk.: Grzegorz Stróżniak
 
